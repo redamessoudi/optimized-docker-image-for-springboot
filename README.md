@@ -1,5 +1,5 @@
-# Optimized docker images for Spring Boot 2.3 based applications
-This repository contains example of how to optimize docker image of an application based on Spring boot 2.3.
+# Optimized docker images for Spring Boot applications with layering feature
+This repository contains example of how to optimize docker image of an application based on Spring boot with layering feature.
 
 ## Article
 Full post detailed the process available here :
