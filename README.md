@@ -9,4 +9,4 @@ https://redamessoudi.com/optimized-docker-images-for-spring-boot-apps/
 ## Code
 This is the basic branch of the project with no docker stuff.
 
-Check different branches for different optimization.
+Check different branches for different optimizations.
